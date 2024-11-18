@@ -1,3 +1,5 @@
+// GIVEN HEADER FILE, NOT MINE
+
 #include <cstdlib>
 #include <iostream>
 #include <cmath>
