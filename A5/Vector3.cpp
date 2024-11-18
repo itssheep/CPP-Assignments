@@ -1,3 +1,6 @@
+// Using header file (Vector3.hpp) implement methods for 3D vectors.
+// This is my implementation
+
 #include "Vector3.hpp"
 using namespace std;
 
