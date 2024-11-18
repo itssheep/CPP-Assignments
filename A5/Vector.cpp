@@ -1,3 +1,6 @@
+// Using given header file (Vector.hpp) create the class template methods and implement files for 3D vectors aswell.
+// This is my implementation
+
 #include "Vector.hpp"
 #include <iostream>
 #include <vector>
