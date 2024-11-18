@@ -1,3 +1,5 @@
+// GIVEN HEADER FILE, NOT MINE
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
