@@ -1,4 +1,5 @@
 // Using given header file Histogram.hpp, create the class methods
+// This is my implementation
 
 #include "Histogram.hpp"
 using namespace std;
