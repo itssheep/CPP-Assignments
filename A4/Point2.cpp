@@ -1,3 +1,6 @@
+// Using given header file, convert the class into a template class and create the methods
+// This is my implementation
+
 #include <iostream>
 #include "Point2.h"
 
